@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Heat Stroke</string>
+
+
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="what_is">WHAT IS ?\nکیا؟</string>
+    <string name="who_at_risk">WHO AT RISK ?\n خطرے میں کون ہے؟</string>
+    <string name="symptoms">SYMPTOMS ?\nعلامات؟</string>
+    <string name="prevention">PREVENTION ?\nہیٹ اسٹروک کی روک تھام</string>
+    <string name="first_aid">FIRST-AID\nابتدائی طبی امداد</string>
+    <string name="news">NEWS\nخبر</string>
+    <string name="share_msg">Please download \"Heat stroke\" app from play store. App on Heat stroke awareness</string>
+    <string name="chooser_text">Complete action using</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-4227861033559247/4399755814</string>
+</resources>

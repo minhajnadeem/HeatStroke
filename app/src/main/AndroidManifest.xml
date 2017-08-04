@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.minhaj.minhajlib.heatstroke">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="com.minhaj.minhajlib.heatstroke.Global"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name="com.minhaj.minhajlib.heatstroke.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.minhaj.minhajlib.heatstroke.WhatIs"
+            android:label="What is" />
+        <activity
+            android:name="com.minhaj.minhajlib.heatstroke.WhoAtRisk"
+            android:label="Who at risk" />
+        <activity
+            android:name="com.minhaj.minhajlib.heatstroke.Symptoms"
+            android:label="Symptoms" />
+        <activity
+            android:name="com.minhaj.minhajlib.heatstroke.Prevention"
+            android:label="Prevention" />
+        <activity
+            android:name="com.minhaj.minhajlib.heatstroke.News"
+            android:label="News" />
+        <activity
+            android:name="com.minhaj.minhajlib.heatstroke.WhatToDo"
+            android:label="First-Aid" />
+        <activity android:name="com.minhaj.minhajlib.heatstroke.YoutubeVideo"></activity>
+    </application>
+
+</manifest>

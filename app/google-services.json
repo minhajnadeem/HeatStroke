@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "160656878360",
+    "firebase_url": "https://heatstroke-165014.firebaseio.com",
+    "project_id": "heatstroke-165014",
+    "storage_bucket": "heatstroke-165014.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160656878360:android:a9d48b1af09b77dc",
+        "android_client_info": {
+          "package_name": "com.minhaj.minhajlib.heatstroke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160656878360-vobq8pfbfdcusebreehk77uqlrmmdu1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.minhaj.minhajlib.heatstroke",
+            "certificate_hash": "f704b4e5a250c21d7ff743dd3e8cf2520c58da7e"
+          }
+        },
+        {
+          "client_id": "160656878360-1f9l1s7kmoveptggoplt6t5trotrtgu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR-cQXJVkdyQ1VBMllCm1fsGdWUpxylRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160656878360-1f9l1s7kmoveptggoplt6t5trotrtgu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
